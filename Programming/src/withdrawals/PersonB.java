@@ -1,3 +1,5 @@
+package withdrawals;
+
 public class PersonB extends Thread {
     Bank bank;
     String mode;

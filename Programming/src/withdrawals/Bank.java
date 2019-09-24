@@ -1,3 +1,4 @@
+package withdrawals;
 
 import java.util.Objects;
 
@@ -29,10 +30,10 @@ public class Bank {
 
 //public class Main{
 //    public static void main(String[] args){
-//        Bank bank = new Bank();
+//        withdrawals.Bank bank = new withdrawals.Bank();
 //
-//        PersonA a = new PersonA(bank,"Counter");
-//        PersonB b = new PersonB(bank,"ATM");
+//        withdrawals.PersonA a = new withdrawals.PersonA(bank,"Counter");
+//        withdrawals.PersonB b = new withdrawals.PersonB(bank,"ATM");
 //
 //        a.start();
 //        b.start();
