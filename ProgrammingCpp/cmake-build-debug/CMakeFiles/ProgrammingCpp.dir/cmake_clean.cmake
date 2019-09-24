@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ProgrammingCpp.dir/main.cpp.obj"
+  "CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj"
   "ProgrammingCpp.pdb"
   "ProgrammingCpp.exe"
   "ProgrammingCpp.exe.manifest"
