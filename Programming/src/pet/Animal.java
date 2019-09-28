@@ -1,3 +1,5 @@
+package pet;
+
 abstract class Animal {
     abstract void eat();
 }

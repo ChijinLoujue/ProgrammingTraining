@@ -91,6 +91,9 @@
 		<Unit filename="D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/mytime0.h">
 			<Option target="ProgrammingCpp"/>
 		</Unit>
+		<Unit filename="D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/operator0.cpp">
+			<Option target="ProgrammingCpp"/>
+		</Unit>
 		<Unit filename="D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

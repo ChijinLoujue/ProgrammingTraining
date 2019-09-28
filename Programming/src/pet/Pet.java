@@ -1,3 +1,5 @@
+package pet;
+
 public class Pet {
     public static void main(String[] args){
         show(new Cat());
