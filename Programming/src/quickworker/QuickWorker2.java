@@ -1,9 +1,11 @@
+//Quick Worker No. 2 二进制字符串中固定k个1的字串有多少个
 
 
-// 本题为考试多行输入输出规范示例，无需提交，不计分。
+package quickworker;
+
 import java.util.Scanner;
 
-public class Main {
+public class QuickWorker2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int k = sc.nextInt();
