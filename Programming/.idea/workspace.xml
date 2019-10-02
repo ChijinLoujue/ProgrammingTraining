@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/Question6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,7 +47,7 @@
         <counts>
           <entry key="Leetcode3" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="38" />
+          <entry key="java" value="40" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -55,19 +55,19 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="40" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="11050" />
+          <entry key="java" value="12004" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11050" />
+          <entry key="JAVA" value="12004" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -101,17 +101,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            <state relative-caret-position="148">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="-102">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#379#388#0" expanded="true" />
@@ -119,6 +128,15 @@
                 <element signature="e#569#570#0" expanded="true" />
                 <element signature="e#607#608#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -181,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/codinginterviews/Question4.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question5.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question6.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/Question7.java" />
       </list>
     </option>
   </component>
@@ -275,7 +294,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570017619538" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570026184293" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -304,20 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question6">
-    <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listtrain.LinkListTest" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="listtrain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question7">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programming" />
@@ -380,21 +386,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codinginterviews.Question7" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codinginterviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LinkListTest" />
       <item itemvalue="Application.MapTest" />
       <item itemvalue="Application.Question3" />
       <item itemvalue="Application.Question4" />
       <item itemvalue="Application.Question6" />
+      <item itemvalue="Application.Question7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question7" />
         <item itemvalue="Application.Question6" />
         <item itemvalue="Application.Question4" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.LinkListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -412,12 +431,12 @@
       <workItem from="1569070222815" duration="36664000" />
       <workItem from="1569245058606" duration="31098000" />
       <workItem from="1569738869571" duration="21192000" />
-      <workItem from="1569868455379" duration="9152000" />
+      <workItem from="1569868455379" duration="15867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98327000" />
+    <option name="totallyTimeSpent" value="105042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,8 +460,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933443" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40266222" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39933443" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
@@ -485,7 +504,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question6.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
@@ -710,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/neteasegame/ColumnMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -724,17 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="-102">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#379#388#0" expanded="true" />
@@ -742,6 +747,27 @@
             <element signature="e#569#570#0" expanded="true" />
             <element signature="e#607#608#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
