@@ -34,12 +34,4 @@ public class Question22 {
         }
         return temp2;
     }
-    public static class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int val) {
-            this.val = val;
-        }
-    }
 }
