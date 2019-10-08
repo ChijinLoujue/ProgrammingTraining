@@ -9,17 +9,17 @@ public class QuestionTest {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt();
-        int n = sc.nextInt();
-        int [][]matrix = new int[m][n];
-        for(int i=0;i<m;++i){
-            for(int j=0;j<n;++j){
-                matrix[i][j] = sc.nextInt();
-            }
+        System.out.println(getNumLen(m));
+    }
+
+    public static int getNumLen(int num) {
+        int len = 0;
+
+        while (num!=0){
+            num /=10;
+            len++;
         }
-        System.out.println((matrix.length));
-        System.out.println((matrix[0].length));
-        String str = Arrays.deepToString(matrix);
-        System.out.println(str);
+        return len;
     }
 }
 /*

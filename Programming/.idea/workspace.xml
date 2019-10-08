@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codinginterviews/QuestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/QuestionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,23 +37,23 @@
     <session id="-1154633429">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.55" value="1" />
-          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.57" value="2" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.87" value="1" />
           <entry key="project.open.time.89" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Leetcode3" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="66" />
+          <entry key="java" value="67" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -60,19 +61,19 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="66" />
+          <entry key="JAVA" value="67" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="18822" />
+          <entry key="java" value="21437" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18822" />
+          <entry key="JAVA" value="21437" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -132,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="550">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,8 +145,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+            <state relative-caret-position="106">
+              <caret line="254" column="33" lean-forward="true" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,10 +155,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="181">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -234,11 +244,11 @@
         <option value="$PROJECT_DIR$/src/codinginterviews/Question26.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question7.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question27.java" />
-        <option value="$PROJECT_DIR$/src/codinginterviews/QuestionTest.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question29.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question30.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question31.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question32.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/QuestionTest.java" />
         <option value="$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java" />
       </list>
     </option>
@@ -291,27 +301,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Programming" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Programming" type="616d4139:PackageViewModuleNode" />
-              <item name="quickworker" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Programming" type="616d4139:PackageViewModuleNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,13 +312,44 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="codinginterviews" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="quickworker" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="sortingalgorithm" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570461995636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570537594963" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -445,9 +465,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.QuestionTest" />
         <item itemvalue="Application.Question31" />
         <item itemvalue="Application.Question29" />
-        <item itemvalue="Application.QuestionTest" />
         <item itemvalue="Application.Question25" />
       </list>
     </recent_temporary>
@@ -470,12 +490,13 @@
       <workItem from="1570169227915" duration="9330000" />
       <workItem from="1570255283636" duration="6875000" />
       <workItem from="1570340447575" duration="13874000" />
-      <workItem from="1570445935470" duration="14312000" />
+      <workItem from="1570445935470" duration="14449000" />
+      <workItem from="1570511679465" duration="19592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155072000" />
+    <option name="totallyTimeSpent" value="174801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,7 +511,7 @@
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.3348485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.14848486" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -499,7 +520,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28452578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,12 +581,6 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question31.java</url>
           <line>25</line>
           <properties />
@@ -573,9 +588,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java</url>
-          <line>105</line>
+          <line>112</line>
           <properties />
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java</url>
+          <line>241</line>
+          <properties />
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -683,13 +710,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/listtrain/LinkList.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/listtrain/LinkListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -912,10 +932,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="550">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -929,10 +949,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -941,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        <state relative-caret-position="106">
+          <caret line="254" column="33" lean-forward="true" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

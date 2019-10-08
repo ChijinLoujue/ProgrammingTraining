@@ -20,17 +20,24 @@ public class BubbleSort {
         for(int i=0;i<len;++i){
             array[i] =Integer.parseInt(arrayStr[i]);
         }
-        //shellSort(array);
-        //shellSort(randomArray);
-        int []array1 = mergeSort(array);
-        int []randomArray1 = mergeSort(randomArray);
+        radixSort(array);
+        radixSort(randomArray);
         for(int i=0;i<len;++i){
-            System.out.print(array1[i]+" ");
+            System.out.print(array[i]+" ");
         }
         System.out.println();
         for(int i=0;i<randomLen;++i){
-            System.out.print(randomArray1[i]+" ");
+            System.out.print(randomArray[i]+" ");
         }
+        //int []array1 = mergeSort(array);
+        //int []randomArray1 = mergeSort(randomArray);
+//        for(int i=0;i<len;++i){
+//            System.out.print(array1[i]+" ");
+//        }
+//        System.out.println();
+//        for(int i=0;i<randomLen;++i){
+//            System.out.print(randomArray1[i]+" ");
+//        }
     }
     public static void bubbleSort(int []array){
         int len =array.length;
@@ -104,7 +111,6 @@ public class BubbleSort {
         int []array1 = Arrays.copyOfRange(array,0,len1);
         int []array2 = Arrays.copyOfRange(array,len1,len);
         return merge(mergeSort(array1),mergeSort(array2));
-
     }
     public static int [] merge(int []array1,int []array2){
         int len1 = array1.length;
@@ -131,6 +137,176 @@ public class BubbleSort {
             ++index2;
         }
         return result;
+    }
+
+    public static void quickSort(int []array,int firstIndex,int endIndex){
+        int len = endIndex-firstIndex+1;
+        if(len>=2){
+            int k = array[firstIndex];
+            int leftIndex = firstIndex;
+            int rightIndex = endIndex;
+            while (leftIndex<rightIndex) {
+                while ((leftIndex < rightIndex) && array[rightIndex] >= k)
+                    rightIndex--;
+                while ((leftIndex < rightIndex) && array[leftIndex] <= k)
+                    leftIndex++;
+                if(leftIndex < rightIndex){
+                    int temp = array[leftIndex];
+                    array[leftIndex] = array[rightIndex];
+                    array[rightIndex] = temp;
+                }
+            }
+            if(leftIndex==rightIndex){
+                int temp = array[firstIndex];
+                array[firstIndex] = array[rightIndex];
+                array[rightIndex] = temp;
+            }
+            quickSort(array,firstIndex,leftIndex-1);
+            quickSort(array,rightIndex+1,endIndex);
+        }
+    }
+
+    public static void heapSort(int []array){
+        buildMaxHeap(array);
+        int len = array.length;
+        for(int i = len-1;i>0;--i){
+            int temp = array[i];
+            array[i] = array[0];
+            array[0] = temp;
+            len--;
+            heapify(array,0,len);
+        }
+
+
+    }
+    public static void buildMaxHeap(int []array){
+        int len = array.length;
+        for(int i = len/2;i>=0;--i) {
+            heapify(array, i,len);
+        }
+    }
+    public static void heapify(int []array,int i,int len){
+        int leftIndex = 2*i+1;
+        int rightIndex = 2*i+2;
+        int largeIndex = i;
+        if(leftIndex<len&&array[leftIndex]>array[largeIndex]){
+            largeIndex = leftIndex;
+        }
+        if(rightIndex<len&&array[rightIndex]>array[largeIndex]){
+            largeIndex = rightIndex;
+        }
+        if(largeIndex!=i){
+            int temp = array[i];
+            array[i] = array[largeIndex];
+            array[largeIndex] = temp;
+            heapify(array,largeIndex,len);
+        }
+    }
+
+    public static void countingSort(int []array){
+        int len = array.length;
+        int max = array[0];
+        for(int i = 0;i<len;++i){
+            if(array[i]>max)
+                max = array[i];
+        }
+        int []cointArray = new int[max+1];
+        for(int i =0;i<max+1;++i){
+            cointArray[i]=0;
+        }
+        for(int i =0;i<len;++i){
+            cointArray[array[i]]++;
+        }
+        int index = 0;
+        for (int i=0;i<max+1;++i){
+            while (cointArray[i]>0){
+                array[index++] = i;
+                cointArray[i]--;
+            }
+        }
+    }
+
+    public static void bucketSort(int []array,int bucketSize){
+        int len = array.length;
+        if(len>=2){
+            int maxValue = array[0];
+            int minValue = array[0];
+            for(int i = 1;i<len;++i){
+                if(array[i]<minValue){
+                    minValue = array[i];
+                }else if(array[i]>maxValue){
+                    maxValue = array[i];
+                }
+            }
+
+            if(bucketSize <=0) bucketSize = 1;
+            int bucketCount = (maxValue-minValue)/bucketSize+1;
+            int [][]buckets = new int[bucketCount][0];
+
+            for(int i = 0;i<len;++i){
+                int bucketIndex = (array[i]-minValue)/bucketSize;
+                int bucketLen = buckets[bucketIndex].length;
+                buckets[bucketIndex] =Arrays.copyOf(buckets[bucketIndex],bucketLen+1);
+                buckets[bucketIndex][bucketLen] = array[i];
+            }
+            int arrIndex = 0;
+            for(int i = 0;i<bucketCount;++i){
+                int bucketLen = buckets[i].length;
+                if(bucketLen>=2){
+                    Arrays.sort(buckets[i]);
+                }
+                for(int j = 0;j<bucketLen;++j){
+                    array[arrIndex++] = buckets[i][j];
+                }
+            }
+        }
+    }
+
+    public static void radixSort(int []array){
+        int len = array.length;
+        int maxValue = getMaxValue(array);
+        int maxLen = getNumLen(maxValue);
+        int DEV = 1;
+        int MOD = 10;
+        for(int i = 0;i<maxLen;++i,DEV *=10,MOD *=10){
+            int [][]buckets = new int[MOD*2][0];
+            for(int j = 0;j<len;++j){
+                int bucketIndex = (array[j]%MOD/DEV)+MOD;
+                buckets[bucketIndex] = arrayAppend(buckets[bucketIndex],array[j]);
+            }
+            int arrIndex =0;
+            for(int j = 0;j<MOD*2;++j){
+                for (int k =0;k<buckets[j].length;++k){
+                    array[arrIndex++] = buckets[j][k];
+                }
+            }
+        }
+    }
+    public static int getMaxValue(int []array){
+        int maxValue = array[0];
+        for(int i = 0;i<array.length;++i){
+            if(array[i]>maxValue){
+                maxValue = array[i];
+            }
+        }
+        return maxValue;
+    }
+
+    public static int getNumLen(int num) {
+        int len = 0;
+        if(num==0)
+            return 1;
+        while (num!=0){
+            num /=10;
+            len++;
+        }
+        return len;
+    }
+    public static int []arrayAppend(int []array,int value){
+        int len =array.length;
+        array = Arrays.copyOf(array,len+1);
+        array[len] = value;
+        return array;
     }
 }
 //1 2 4 5 6 3 8 9 7
