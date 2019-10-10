@@ -1,11 +1,9 @@
 package sortingalgorithm;
 
-import javafx.scene.transform.Scale;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BubbleSort {
+public class ClassicSort {
     final static int randomLen = 50;
     public static void main(String []args){
        int []randomArray = new int[randomLen];
@@ -20,8 +18,8 @@ public class BubbleSort {
         for(int i=0;i<len;++i){
             array[i] =Integer.parseInt(arrayStr[i]);
         }
-        radixSort(array);
-        radixSort(randomArray);
+        bubbleSort(array);
+        bubbleSort(randomArray);
         for(int i=0;i<len;++i){
             System.out.print(array[i]+" ");
         }
@@ -39,6 +37,7 @@ public class BubbleSort {
 //            System.out.print(randomArray1[i]+" ");
 //        }
     }
+    // 冒泡排序
     public static void bubbleSort(int []array){
         int len =array.length;
         for(int i=0;i<len-1;++i){
@@ -51,6 +50,7 @@ public class BubbleSort {
             }
         }
     }
+    //选择排序
     public static void selectionSort(int []array){
         int len =array.length;
         for(int i =0;i<len-1;++i){
@@ -65,7 +65,7 @@ public class BubbleSort {
             array[minIndex] = temp;
         }
     }
-
+  //插入排序
     public static void insertionSort(int []array){
         int len =array.length;
         if(len>=2){
@@ -82,6 +82,7 @@ public class BubbleSort {
         }
 
     }
+    //希尔排序
     public static void shellSort(int []array){
         int len = array.length;
         int proIndex =0;
@@ -101,7 +102,7 @@ public class BubbleSort {
             }
         }
     }
-
+    //并归排序
     public static int[] mergeSort(int []array){
         int len =array.length;
         if(len<2)
@@ -138,7 +139,7 @@ public class BubbleSort {
         }
         return result;
     }
-
+   //快速排序
     public static void quickSort(int []array,int firstIndex,int endIndex){
         int len = endIndex-firstIndex+1;
         if(len>=2){
@@ -165,7 +166,7 @@ public class BubbleSort {
             quickSort(array,rightIndex+1,endIndex);
         }
     }
-
+    //堆排序
     public static void heapSort(int []array){
         buildMaxHeap(array);
         int len = array.length;
@@ -176,8 +177,6 @@ public class BubbleSort {
             len--;
             heapify(array,0,len);
         }
-
-
     }
     public static void buildMaxHeap(int []array){
         int len = array.length;
@@ -202,7 +201,7 @@ public class BubbleSort {
             heapify(array,largeIndex,len);
         }
     }
-
+   //计数排序
     public static void countingSort(int []array){
         int len = array.length;
         int max = array[0];
@@ -225,7 +224,7 @@ public class BubbleSort {
             }
         }
     }
-
+    //桶式排序
     public static void bucketSort(int []array,int bucketSize){
         int len = array.length;
         if(len>=2){
@@ -261,7 +260,7 @@ public class BubbleSort {
             }
         }
     }
-
+    //基数排序
     public static void radixSort(int []array){
         int len = array.length;
         int maxValue = getMaxValue(array);

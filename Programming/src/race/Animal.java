@@ -11,8 +11,8 @@ public abstract class Animal extends Thread {
         }
     }
 
-    public static interface Calltoback{
-        public void win();
+    public interface Calltoback{
+        void win();
     }
     public Calltoback calltoback;
 }
