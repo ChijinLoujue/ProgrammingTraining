@@ -1,26 +1,25 @@
 package multithreading;
 
-public class Multithreading extends Thread{
+public class Multithreading implements Runnable{
     private String name;
     public Multithreading(String name){
-        super(name);
+        this.name = name;
     }
-    static int tick =20;
-    static Object ob = "aa";
+    private static int total = 20;
 
     public void run(){
-        while (tick>0){
-            synchronized (ob){
-                if (tick > 0) {
-                    System.out.println(getName() + "卖出了第" + tick + "张票");
-                    tick--;
-                } else {
-                    System.out.println("票卖完了");
+      System.out.println(Thread.currentThread().getName());
+        for(int i = 0;i<10;++i){
+            System.out.println(name+":"+i);
+            synchronized (new Object()){
+                if(total>0){
+                    total--;
                 }
+                System.out.println(name+":"+total);
             }
             try {
-                sleep(1000);//休息一秒
-            } catch (InterruptedException e) {
+                Thread.sleep(100);
+            }catch (InterruptedException e){
                 e.printStackTrace();
             }
         }
