@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/servertrain/GreetingServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sockettrain/SocketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threadpool/ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/multithreading/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/multithreading/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/multithreading/Multithreading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/multithreading/Multithreading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/Multithreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Multithreading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,8 +149,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/servertrain/GreetingServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="131">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -308,11 +306,6 @@
               <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
               <item name="Programming" type="616d4139:PackageViewModuleNode" />
             </path>
-            <path>
-              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Programming" type="616d4139:PackageViewModuleNode" />
-              <item name="servertrain" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -352,7 +345,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570783386834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570867746148" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -498,12 +491,12 @@
       <workItem from="1570543736111" duration="25000" />
       <workItem from="1570543926423" duration="99000" />
       <workItem from="1570586219843" duration="3556000" />
-      <workItem from="1570619925143" duration="18630000" />
+      <workItem from="1570619925143" duration="19848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198895000" />
+    <option name="totallyTimeSpent" value="200113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,7 +511,7 @@
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15757576" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15757576" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,7 +520,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28452578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1024,8 +1017,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/servertrain/GreetingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="131">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
