@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +76,7 @@
           <entry key="Leetcode3" value="1" />
           <entry key="ThreadPoolTest" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="101" />
+          <entry key="java" value="105" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -68,7 +84,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="101" />
+          <entry key="JAVA" value="105" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -76,12 +92,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="23486" />
+          <entry key="java" value="25532" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23486" />
+          <entry key="JAVA" value="25532" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -90,55 +106,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/race/Race.java">
+        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/race/Rabbit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multithreading/Multithreading.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="231">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
               <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#0#1425#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1642#1643#0" expanded="true" />
+                <element signature="e#1678#1679#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadpool/ThreadPoolTest.java">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="206">
+              <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sockettrain/SocketTest.java">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question33.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="575">
+              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,22 +145,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/servertrain/GreetingServer.java">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="177">
+              <caret line="25" column="62" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="62" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#594#614#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/withdrawals/PersonA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -215,11 +204,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Pet.java" />
-        <option value="$PROJECT_DIR$/src/genericity/Genericity.java" />
         <option value="$PROJECT_DIR$/src/ColumnMultiplication.java" />
         <option value="$PROJECT_DIR$/src/KeyCost.java" />
-        <option value="$PROJECT_DIR$/src/test/Test.java" />
         <option value="$PROJECT_DIR$/src/listtrain/LinkList.java" />
         <option value="$PROJECT_DIR$/src/listtrain/LinkListTest.java" />
         <option value="$PROJECT_DIR$/src/maptrain/MapTest.java" />
@@ -266,6 +252,9 @@
         <option value="$PROJECT_DIR$/src/sockettrain/SocketTest.java" />
         <option value="$PROJECT_DIR$/src/servertrain/ServerClass.java" />
         <option value="$PROJECT_DIR$/src/servertrain/GreetingServer.java" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/Question33.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/Question34.java" />
       </list>
     </option>
   </component>
@@ -306,6 +295,16 @@
               <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
               <item name="Programming" type="616d4139:PackageViewModuleNode" />
             </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="codinginterviews" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Programming" type="616d4139:PackageViewModuleNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -345,7 +344,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570867746148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570964920987" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -374,20 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SocketTest">
-    <configuration name="ClassicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortingalgorithm.ClassicSort" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortingalgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question33">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programming" />
@@ -404,6 +390,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codinginterviews.Question33" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codinginterviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,19 +451,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ClassicSort" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.Withdrawals" />
       <item itemvalue="Application.ThreadPoolTest" />
       <item itemvalue="Application.SocketTest" />
+      <item itemvalue="Application.Question33" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question33" />
         <item itemvalue="Application.SocketTest" />
         <item itemvalue="Application.ThreadPoolTest" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Withdrawals" />
-        <item itemvalue="Application.ClassicSort" />
       </list>
     </recent_temporary>
   </component>
@@ -491,12 +490,12 @@
       <workItem from="1570543736111" duration="25000" />
       <workItem from="1570543926423" duration="99000" />
       <workItem from="1570586219843" duration="3556000" />
-      <workItem from="1570619925143" duration="19848000" />
+      <workItem from="1570619925143" duration="35823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200113000" />
+    <option name="totallyTimeSpent" value="216088000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -511,7 +510,7 @@
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15757576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15757576" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -520,8 +519,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40266222" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28452578" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40266222" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28452578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
@@ -604,24 +603,16 @@
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codinginterviews/Question33.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -764,16 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -788,13 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -1017,10 +991,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/servertrain/GreetingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="206">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#1425#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="62" />
+          <folding>
+            <element signature="e#594#614#0" expanded="true" />
           </folding>
         </state>
       </provider>
