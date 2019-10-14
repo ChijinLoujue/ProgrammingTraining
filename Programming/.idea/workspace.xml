@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question33.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
@@ -76,7 +76,7 @@
           <entry key="Leetcode3" value="1" />
           <entry key="ThreadPoolTest" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="105" />
+          <entry key="java" value="109" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -84,27 +84,39 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="105" />
+          <entry key="JAVA" value="109" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="11" />
-          <entry key="java" value="25532" />
+          <entry key="dummy" value="12" />
+          <entry key="java" value="27496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25532" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="27496" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5275">
+              <caret line="226" column="10" lean-forward="true" selection-start-line="226" selection-start-column="10" selection-end-line="226" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,14 +156,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="62" />
+            <state relative-caret-position="300">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding>
                 <element signature="e#594#614#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#459#481#0" expanded="true" />
+                <element signature="e#692#703#0" expanded="true" />
+                <element signature="e#1085#1096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#232#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-275">
+              <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -167,15 +216,6 @@
                 <element signature="e#183#184#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/race/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -204,9 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ColumnMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/KeyCost.java" />
-        <option value="$PROJECT_DIR$/src/listtrain/LinkList.java" />
         <option value="$PROJECT_DIR$/src/listtrain/LinkListTest.java" />
         <option value="$PROJECT_DIR$/src/maptrain/MapTest.java" />
         <option value="$PROJECT_DIR$/src/quickworker/QuickWorker1.java" />
@@ -255,6 +292,9 @@
         <option value="$PROJECT_DIR$/src/test/Test.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question33.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question34.java" />
+        <option value="$PROJECT_DIR$/src/ctrip/Ctrip2.java" />
+        <option value="$PROJECT_DIR$/src/ctrip/Ctrip1.java" />
+        <option value="$PROJECT_DIR$/src/ctrip/Ctrip3.java" />
       </list>
     </option>
   </component>
@@ -264,9 +304,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1380" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1273" />
+    <option name="y" value="-20" />
+    <option name="width" value="1374" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -303,7 +344,7 @@
             <path>
               <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
               <item name="Programming" type="616d4139:PackageViewModuleNode" />
-              <item name="test" type="1f31426a:PackageElementNode" />
+              <item name="sortingalgorithm" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +385,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570964920987" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571033829253" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -373,26 +414,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question33">
+  <component name="RunManager" selected="Application.Ctrip3">
+    <configuration name="Ctrip1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ctrip.Ctrip1" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ctrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ctrip2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ctrip.Ctrip2" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ctrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ctrip3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ctrip.Ctrip3" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ctrip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programming" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.MainClass" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -423,47 +490,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadpool.ThreadPoolTest" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Withdrawals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="withdrawals.Withdrawals" />
-      <module name="Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="withdrawals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Withdrawals" />
-      <item itemvalue="Application.ThreadPoolTest" />
       <item itemvalue="Application.SocketTest" />
       <item itemvalue="Application.Question33" />
+      <item itemvalue="Application.Ctrip1" />
+      <item itemvalue="Application.Ctrip2" />
+      <item itemvalue="Application.Ctrip3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ctrip3" />
+        <item itemvalue="Application.Ctrip2" />
+        <item itemvalue="Application.Ctrip1" />
         <item itemvalue="Application.Question33" />
         <item itemvalue="Application.SocketTest" />
-        <item itemvalue="Application.ThreadPoolTest" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Withdrawals" />
       </list>
     </recent_temporary>
   </component>
@@ -490,12 +531,12 @@
       <workItem from="1570543736111" duration="25000" />
       <workItem from="1570543926423" duration="99000" />
       <workItem from="1570586219843" duration="3556000" />
-      <workItem from="1570619925143" duration="35823000" />
+      <workItem from="1570619925143" duration="44252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216088000" />
+    <option name="totallyTimeSpent" value="224517000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -507,10 +548,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15757576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.14899713" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -519,8 +560,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40266222" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28452578" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32614556" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28452578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294509" />
@@ -609,31 +650,22 @@
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ctrip/Ctrip1.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ctrip/Ctrip3.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="8" column="41" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -769,16 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="225" column="5" lean-forward="true" selection-start-line="225" selection-start-column="5" selection-end-line="225" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1034,10 +1056,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="62" />
+        <state relative-caret-position="300">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="e#594#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#481#0" expanded="true" />
+            <element signature="e#692#703#0" expanded="true" />
+            <element signature="e#1085#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5275">
+          <caret line="226" column="10" lean-forward="true" selection-start-line="226" selection-start-column="10" selection-end-line="226" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
