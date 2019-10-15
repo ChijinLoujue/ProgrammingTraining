@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ctrip/Ctrip3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codinginterviews/Question34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/Question34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
@@ -76,7 +74,7 @@
           <entry key="Leetcode3" value="1" />
           <entry key="ThreadPoolTest" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="109" />
+          <entry key="java" value="111" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -84,7 +82,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="109" />
+          <entry key="JAVA" value="111" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -92,12 +90,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="27496" />
+          <entry key="java" value="28188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27496" />
+          <entry key="JAVA" value="28188" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -105,11 +103,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5275">
-              <caret line="226" column="10" lean-forward="true" selection-start-line="226" selection-start-column="10" selection-end-line="226" selection-end-column="10" />
+            <state relative-caret-position="422">
+              <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,11 +157,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
-                <element signature="e#594#614#0" expanded="true" />
+                <element signature="e#865#885#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question35.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+              <folding>
+                <element signature="e#295#326#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codinginterviews/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -205,30 +226,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/race/LetOneStop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multithreading/MainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -244,7 +241,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/listtrain/LinkListTest.java" />
         <option value="$PROJECT_DIR$/src/maptrain/MapTest.java" />
         <option value="$PROJECT_DIR$/src/quickworker/QuickWorker1.java" />
         <option value="$PROJECT_DIR$/src/quickworker/QuickWorker2.java" />
@@ -276,7 +272,6 @@
         <option value="$PROJECT_DIR$/src/codinginterviews/Question32.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/QuestionTest.java" />
         <option value="$PROJECT_DIR$/src/sortingalgorithm/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java" />
         <option value="$PROJECT_DIR$/src/withdrawals/PersonA.java" />
         <option value="$PROJECT_DIR$/src/withdrawals/Withdrawals.java" />
         <option value="$PROJECT_DIR$/src/withdrawals/Bank.java" />
@@ -291,10 +286,12 @@
         <option value="$PROJECT_DIR$/src/servertrain/GreetingServer.java" />
         <option value="$PROJECT_DIR$/src/test/Test.java" />
         <option value="$PROJECT_DIR$/src/codinginterviews/Question33.java" />
-        <option value="$PROJECT_DIR$/src/codinginterviews/Question34.java" />
         <option value="$PROJECT_DIR$/src/ctrip/Ctrip2.java" />
         <option value="$PROJECT_DIR$/src/ctrip/Ctrip1.java" />
         <option value="$PROJECT_DIR$/src/ctrip/Ctrip3.java" />
+        <option value="$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/Question34.java" />
+        <option value="$PROJECT_DIR$/src/codinginterviews/Question35.java" />
       </list>
     </option>
   </component>
@@ -305,8 +302,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1273" />
-    <option name="y" value="-20" />
+    <option name="x" value="-101" />
+    <option name="y" value="-18" />
     <option name="width" value="1374" />
     <option name="height" value="735" />
   </component>
@@ -340,11 +337,6 @@
               <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
               <item name="Programming" type="616d4139:PackageViewModuleNode" />
               <item name="codinginterviews" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Programming" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Programming" type="616d4139:PackageViewModuleNode" />
-              <item name="sortingalgorithm" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -385,11 +377,12 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571033829253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571128497616" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
@@ -531,12 +524,12 @@
       <workItem from="1570543736111" duration="25000" />
       <workItem from="1570543926423" duration="99000" />
       <workItem from="1570586219843" duration="3556000" />
-      <workItem from="1570619925143" duration="44252000" />
+      <workItem from="1570619925143" duration="55823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224517000" />
+    <option name="totallyTimeSpent" value="236088000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,10 +541,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.14899713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.15733737" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -560,7 +553,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32614556" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3967213" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28452578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,13 +659,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -722,13 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1054,16 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="e#594#614#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ctrip/Ctrip1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1097,10 +1066,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5275">
-          <caret line="226" column="10" lean-forward="true" selection-start-line="226" selection-start-column="10" selection-end-line="226" selection-end-column="10" />
+        <state relative-caret-position="422">
+          <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#865#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#295#326#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
         </state>
       </provider>
