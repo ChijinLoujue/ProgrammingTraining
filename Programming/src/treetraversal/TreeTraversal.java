@@ -1,6 +1,5 @@
 package treetraversal;
 
-
 import java.util.ArrayList;
 import java.util.Scanner;
 import codinginterviews.TreeNode;
