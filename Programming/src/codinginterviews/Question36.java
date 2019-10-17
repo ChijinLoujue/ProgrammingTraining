@@ -1,24 +1,24 @@
 package codinginterviews;
 
-import java.util.ArrayList;
-
 public class Question36 {
     public TreeNode Convert(TreeNode pRootOfTree) {
         if(pRootOfTree==null)
             return pRootOfTree;
-        pRootOfTree.left = Convert(pRootOfTree.left);
-
-        pRootOfTree.right = Convert(pRootOfTree.right);
+        TreeNode temp=pRootOfTree;
+        if(pRootOfTree.left!=null){
+            temp = Convert(pRootOfTree.left);
+            while (temp.right!=null)
+                temp = temp.right;
+            temp.right = pRootOfTree;
+            pRootOfTree.left = temp;
+        }
+        if(pRootOfTree.right!=null){
+            temp = Convert(pRootOfTree.right);
+            temp.left = pRootOfTree;
+            pRootOfTree.right = temp;
+        }
+        while (temp!=null&&temp.left!=null)
+            temp = temp.left;
+        return temp;
     }
-
-    public ArrayList<Integer> bianli(TreeNode pRootOfTree) {
-        ArrayList<Integer> result = new ArrayList<Integer>();
-            if(pRootOfTree==null)
-                return result;
-            result.addAll(bianli((pRootOfTree.right)));
-            result.add(pRootOfTree.val);
-            result.addAll(bianli(pRootOfTree.right));
-        return result;
-    }
-
 }

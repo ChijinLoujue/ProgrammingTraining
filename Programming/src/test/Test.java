@@ -46,37 +46,21 @@
 package test;
 
 import codinginterviews.TreeNode;
+import com.sun.deploy.util.ArrayUtil;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int rootnub = in.nextInt();
-        TreeNode root = new TreeNode(rootnub);
-        while (in.hasNextInt()) {
-            int temp = in.nextInt();
-            TreeNode tempNode = new TreeNode(temp);
+        String str = in.nextLine();
+        String []strArr = str.split("");
+        Arrays.sort(strArr);
+        strArr.toString();
+        String newStr = ArrayUtil.arrayToString(strArr);
+        System.out.println(newStr);
 
-        }
     }
-    public static void BuildTree(TreeNode root,TreeNode tempNode){
-        if(tempNode.val>root.val){
-            if(root.rightNode==null){
-                root.rightNode = tempNode;
-            }
-            if(root.rightNode.val<tempNode.val)
-            if(root.rightNode.val>tempNode.val){
 
-            }
-        }
-    }
-    public static class TreeNode{
-        int val;
-        public TreeNode(int i){
-            this.val = i;
-        }
-        TreeNode leftNode;
-        TreeNode rightNode;
-    }
 }
