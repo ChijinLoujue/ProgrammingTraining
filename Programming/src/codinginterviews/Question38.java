@@ -1,22 +1,20 @@
 package codinginterviews;
 
-import com.mysql.cj.util.StringUtils;
-import com.sun.deploy.util.ArrayUtil;
-
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Scanner;
 
 public class Question38 {
-    public ArrayList<String> Permutation(String str) {
-        String []strArr = str.split("");
-        Arrays.sort(strArr);
-        StringBuilder strB = new StringBuilder("");
-        for(int i =0;i<strArr.length;++i){
-            strB.append(strArr[i]);
+    public static void main(String []args){
+        Scanner in = new Scanner(System.in);
+        String str = in.nextLine();
+        ArrayList<String> strArr = Permutation(str);
+        for(int i = 0;i<strArr.size();++i){
+            System.out.print(strArr.get(i)+" ");
         }
-        return null;
+        System.out.println();
     }
-    public ArrayList<String> Permutation1(String str) {
+
+    public static ArrayList<String> Permutation(String str) {
         ArrayList<String> result = new ArrayList<String>();
         if(str.length()==0)
             return result;
@@ -27,14 +25,29 @@ public class Question38 {
         for(int i =0;i<str.length();++i){
             String subStr = removeCharAt(str,i);
             String currentStr = String.valueOf(str.charAt(i));
-            ArrayList<String> subResult = Permutation1(subStr);
+            if(i>0)
+                if(currentStr.equals(String.valueOf(str.charAt(i-1))))
+                    continue;
+            ArrayList<String> subResult = Permutation(subStr);
             for(int j =0;j<subResult.size();++j){
                 result.add(currentStr+subResult.get(j));
             }
         }
         return result;
     }
-    public String removeCharAt(String s, int pos) {
+
+    public static String removeCharAt(String s, int pos) {
         return s.substring(0, pos) + s.substring(pos + 1);
     }
+
+//
+//    public ArrayList<String> Permutation1(String str) {
+//        String []strArr = str.split("");
+//        Arrays.sort(strArr);
+//        StringBuilder strB = new StringBuilder("");
+//        for(int i =0;i<strArr.length;++i){
+//            strB.append(strArr[i]);
+//        }
+//        return null;
+//    }
 }
