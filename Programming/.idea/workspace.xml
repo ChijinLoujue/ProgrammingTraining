@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Question52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/ProgrammingC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgrammingC/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question45.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/codinginterviews/Question45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codinginterviews/Question52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/Question52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingC/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingC/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
@@ -102,12 +92,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="35249" />
+          <entry key="java" value="35602" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="35249" />
+          <entry key="JAVA" value="35602" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -212,8 +202,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question52.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="6" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="226">
+              <caret line="69" column="8" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="69" selection-end-column="8" />
               <folding>
                 <element signature="e#293#303#0" expanded="true" />
                 <element signature="e#252#262#0" expanded="true" />
@@ -383,7 +373,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572234036243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572353130097" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -532,12 +522,12 @@
       <workItem from="1570586219843" duration="3556000" />
       <workItem from="1570619925143" duration="72670000" />
       <workItem from="1571287259336" duration="36298000" />
-      <workItem from="1572164607143" duration="7498000" />
+      <workItem from="1572164607143" duration="10910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296731000" />
+    <option name="totallyTimeSpent" value="300143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,7 +542,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.16187595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.16187595" />
       <window_info id="Structure" order="1" sideWeight="0.5023256" side_tool="true" weight="0.30030257" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -561,7 +551,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3004926" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3004926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3596059" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1072,8 +1062,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codinginterviews/Question52.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="6" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="226">
+          <caret line="69" column="8" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="69" selection-end-column="8" />
           <folding>
             <element signature="e#293#303#0" expanded="true" />
             <element signature="e#252#262#0" expanded="true" />
