@@ -68,7 +68,6 @@ public class Question52 {
         }
         return result;
 
-
     }
 
 }
