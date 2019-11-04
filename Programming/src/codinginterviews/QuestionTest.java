@@ -10,7 +10,7 @@ public class QuestionTest {
         System.out.println(x);
     }
     public static void changeX(Integer x){
-        
+
     }
 
 }
