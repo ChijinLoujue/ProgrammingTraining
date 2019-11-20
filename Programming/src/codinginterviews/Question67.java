@@ -1,16 +1,7 @@
 package codinginterviews;
 
-import java.util.Scanner;
-
-public class QuestionTest {
-    public static void main(String []args){
-        Scanner sc = new Scanner(System.in);
-        String x = sc.nextLine();
-        int
-
-        System.out.println(changeX(x));
-    }
-    public static int changeX(String str){
+public class Question67 {
+    public int StrToInt(String str) {
 
         int len = str.length();
         if(len == 0)
@@ -38,13 +29,9 @@ public class QuestionTest {
         for(int i = 0;i<len;++i){
             result += intArr[i]*Math.pow(10,len-1-i);
         }
-        if(isFu) result = 0-result;
-        int xx = (int)result;
-        return xx;
-    }
 
+        if(isFu) result = -result;
+        if(result>Integer.MAX_VALUE||result<Integer.MIN_VALUE) return 0;
+        return (int)result;
+    }
 }
-/*
--2147483649
--2147483648
- */
