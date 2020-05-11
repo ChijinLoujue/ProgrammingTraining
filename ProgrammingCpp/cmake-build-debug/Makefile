@@ -149,59 +149,59 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-mytime0.obj: mytime0.cpp.obj
+operator/mytime0.obj: operator/mytime0.cpp.obj
 
-.PHONY : mytime0.obj
-
-# target to build an object file
-mytime0.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj
-.PHONY : mytime0.cpp.obj
-
-mytime0.i: mytime0.cpp.i
-
-.PHONY : mytime0.i
-
-# target to preprocess a source file
-mytime0.cpp.i:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.i
-.PHONY : mytime0.cpp.i
-
-mytime0.s: mytime0.cpp.s
-
-.PHONY : mytime0.s
-
-# target to generate assembly for a file
-mytime0.cpp.s:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.s
-.PHONY : mytime0.cpp.s
-
-operator0.obj: operator0.cpp.obj
-
-.PHONY : operator0.obj
+.PHONY : operator/mytime0.obj
 
 # target to build an object file
-operator0.cpp.obj:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj
-.PHONY : operator0.cpp.obj
+operator/mytime0.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj
+.PHONY : operator/mytime0.cpp.obj
 
-operator0.i: operator0.cpp.i
+operator/mytime0.i: operator/mytime0.cpp.i
 
-.PHONY : operator0.i
+.PHONY : operator/mytime0.i
 
 # target to preprocess a source file
-operator0.cpp.i:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator0.cpp.i
-.PHONY : operator0.cpp.i
+operator/mytime0.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.i
+.PHONY : operator/mytime0.cpp.i
 
-operator0.s: operator0.cpp.s
+operator/mytime0.s: operator/mytime0.cpp.s
 
-.PHONY : operator0.s
+.PHONY : operator/mytime0.s
 
 # target to generate assembly for a file
-operator0.cpp.s:
-	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator0.cpp.s
-.PHONY : operator0.cpp.s
+operator/mytime0.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.s
+.PHONY : operator/mytime0.cpp.s
+
+operator/operator0.obj: operator/operator0.cpp.obj
+
+.PHONY : operator/operator0.obj
+
+# target to build an object file
+operator/operator0.cpp.obj:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj
+.PHONY : operator/operator0.cpp.obj
+
+operator/operator0.i: operator/operator0.cpp.i
+
+.PHONY : operator/operator0.i
+
+# target to preprocess a source file
+operator/operator0.cpp.i:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.i
+.PHONY : operator/operator0.cpp.i
+
+operator/operator0.s: operator/operator0.cpp.s
+
+.PHONY : operator/operator0.s
+
+# target to generate assembly for a file
+operator/operator0.cpp.s:
+	$(MAKE) -f CMakeFiles\ProgrammingCpp.dir\build.make CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.s
+.PHONY : operator/operator0.cpp.s
 
 # Help Target
 help:
@@ -215,12 +215,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... mytime0.obj
-	@echo ... mytime0.i
-	@echo ... mytime0.s
-	@echo ... operator0.obj
-	@echo ... operator0.i
-	@echo ... operator0.s
+	@echo ... operator/mytime0.obj
+	@echo ... operator/mytime0.i
+	@echo ... operator/mytime0.s
+	@echo ... operator/operator0.obj
+	@echo ... operator/operator0.i
+	@echo ... operator/operator0.s
 .PHONY : help
 
 

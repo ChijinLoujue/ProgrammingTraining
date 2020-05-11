@@ -5,8 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/main.cpp" "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj"
-  "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/mytime0.cpp" "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj"
-  "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/operator0.cpp" "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj"
+  "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/operator/mytime0.cpp" "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj"
+  "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/operator/operator0.cpp" "D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

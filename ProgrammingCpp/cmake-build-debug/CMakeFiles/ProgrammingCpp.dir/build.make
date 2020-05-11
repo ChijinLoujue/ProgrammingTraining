@@ -69,44 +69,44 @@ CMakeFiles/ProgrammingCpp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgrammingCpp.dir/main.cpp.s"
 	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\main.cpp -o CMakeFiles\ProgrammingCpp.dir\main.cpp.s
 
-CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj: CMakeFiles/ProgrammingCpp.dir/flags.make
-CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj: ../mytime0.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj"
-	D:\WorkSoftware\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgrammingCpp.dir\mytime0.cpp.obj -c D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\mytime0.cpp
+CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj: CMakeFiles/ProgrammingCpp.dir/flags.make
+CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj: ../operator/mytime0.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj"
+	D:\WorkSoftware\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgrammingCpp.dir\operator\mytime0.cpp.obj -c D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\mytime0.cpp
 
-CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.i"
-	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\mytime0.cpp > CMakeFiles\ProgrammingCpp.dir\mytime0.cpp.i
+CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.i"
+	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\mytime0.cpp > CMakeFiles\ProgrammingCpp.dir\operator\mytime0.cpp.i
 
-CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.s"
-	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\mytime0.cpp -o CMakeFiles\ProgrammingCpp.dir\mytime0.cpp.s
+CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.s"
+	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\mytime0.cpp -o CMakeFiles\ProgrammingCpp.dir\operator\mytime0.cpp.s
 
-CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj: CMakeFiles/ProgrammingCpp.dir/flags.make
-CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj: ../operator0.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj"
-	D:\WorkSoftware\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgrammingCpp.dir\operator0.cpp.obj -c D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator0.cpp
+CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj: CMakeFiles/ProgrammingCpp.dir/flags.make
+CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj: ../operator/operator0.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj"
+	D:\WorkSoftware\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgrammingCpp.dir\operator\operator0.cpp.obj -c D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\operator0.cpp
 
-CMakeFiles/ProgrammingCpp.dir/operator0.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgrammingCpp.dir/operator0.cpp.i"
-	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator0.cpp > CMakeFiles\ProgrammingCpp.dir\operator0.cpp.i
+CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.i"
+	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\operator0.cpp > CMakeFiles\ProgrammingCpp.dir\operator\operator0.cpp.i
 
-CMakeFiles/ProgrammingCpp.dir/operator0.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgrammingCpp.dir/operator0.cpp.s"
-	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator0.cpp -o CMakeFiles\ProgrammingCpp.dir\operator0.cpp.s
+CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.s"
+	D:\WorkSoftware\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator\operator0.cpp -o CMakeFiles\ProgrammingCpp.dir\operator\operator0.cpp.s
 
 # Object files for target ProgrammingCpp
 ProgrammingCpp_OBJECTS = \
 "CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" \
-"CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj" \
-"CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj"
+"CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj" \
+"CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj"
 
 # External object files for target ProgrammingCpp
 ProgrammingCpp_EXTERNAL_OBJECTS =
 
 ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/main.cpp.obj
-ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj
-ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj
+ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj
+ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj
 ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/build.make
 ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/linklibs.rsp
 ProgrammingCpp.exe: CMakeFiles/ProgrammingCpp.dir/objects1.rsp

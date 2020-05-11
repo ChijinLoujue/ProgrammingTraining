@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84851397-ec57-43d0-8132-cab1d17ae198" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/HuaweiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/Question23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/huawei/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarrisArithmetic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarrisArithmetic/harris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarrisArithmetic/harrisTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiftArithmetic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiftArithmetic/sift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2forcv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoforcv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question57.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question57.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingC/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingC/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/cmake-build-debug/ProgrammingCpp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProgrammingPython$demoforcv2.coverage" NAME="demoforcv2 Coverage Results" MODIFIED="1586945391086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingPython$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1587278627777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingPython$demo2forcv2.coverage" NAME="demo2forcv2 Coverage Results" MODIFIED="1587025170806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingPython$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1584679568344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProgrammingPython$sift.coverage" NAME="sift Coverage Results" MODIFIED="1587280550493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SiftArithmetic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="37" selection-start-line="37" selection-end-line="38" />
+              <folding>
+                <element signature="e#16#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demoforcv2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HarrisArithmetic/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HarrisArithmetic/harris.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <element signature="e#39#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SiftArithmetic/sift.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="64" />
+              <folding>
+                <element signature="e#24#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HarrisArithmetic/harrisTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2forcv2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/demo2forcv2.py" />
+        <option value="$PROJECT_DIR$/image/test2.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/demoforcv2.py" />
+        <option value="$PROJECT_DIR$/HarrisArithmetic/harrisTest.py" />
+        <option value="$PROJECT_DIR$/HarrisArithmetic/harris.py" />
+        <option value="$PROJECT_DIR$/SiftArithmetic/sift.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="40" />
+    <option name="y" value="69" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProgrammingPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingPython" type="462c0819:PsiDirectoryNode" />
+              <item name="SiftArithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NeteaseWork/AIproject_BattleCity-khuang2-patch-1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingPython" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sift">
+    <configuration name="demo2forcv2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2forcv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoforcv2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoforcv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sift" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SiftArithmetic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SiftArithmetic/sift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgrammingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sift" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.demo2forcv2" />
+        <item itemvalue="Python.demoforcv2" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84851397-ec57-43d0-8132-cab1d17ae198" name="Default Changelist" comment="" />
+      <created>1582975550547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582975550547</updated>
+      <workItem from="1582975606322" duration="1200000" />
+      <workItem from="1584348328266" duration="8313000" />
+      <workItem from="1585885145151" duration="595000" />
+      <workItem from="1586537481366" duration="1361000" />
+      <workItem from="1586704672784" duration="20635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32104000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo2forcv2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../NeteaseWork/AIproject_BattleCity-khuang2-patch-1/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="1141" column="42" lean-forward="true" selection-start-line="1141" selection-start-column="42" selection-end-line="1141" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2forcv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../NeteaseWork/AIproject_BattleCity-khuang2-patch-1/AI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisArithmetic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_ball.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="37" selection-start-line="37" selection-end-line="38" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoforcv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisArithmetic/harrisTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisArithmetic/harris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#39#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SiftArithmetic/sift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="64" />
+          <folding>
+            <element signature="e#24#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
