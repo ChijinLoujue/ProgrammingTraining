@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/main.cpp
+D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/main.cpp
 iostream
 -
-mytime0.h
-D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/mytime0.h
+operator/mytime0.h
+D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/mytime0.h
 
-D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/mytime0.h
+D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/mytime0.h
+
+D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/operator0.cpp
 

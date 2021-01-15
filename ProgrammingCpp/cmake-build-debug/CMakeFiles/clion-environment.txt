@@ -1,4 +1,4 @@
-ToolSet: 5.0@D:\WorkSoftware\MinGW
+ToolSet: 5.0 (local)@D:\WorkSoftware\MinGW
 Options: 
 
 Options:

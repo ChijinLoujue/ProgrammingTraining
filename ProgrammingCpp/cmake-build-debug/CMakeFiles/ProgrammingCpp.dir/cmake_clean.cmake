@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ProgrammingCpp.dir/main.cpp.obj"
-  "CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj"
-  "CMakeFiles/ProgrammingCpp.dir/operator0.cpp.obj"
-  "ProgrammingCpp.pdb"
+  "CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj"
+  "CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj"
   "ProgrammingCpp.exe"
   "ProgrammingCpp.exe.manifest"
+  "ProgrammingCpp.pdb"
   "libProgrammingCpp.dll.a"
 )
 
