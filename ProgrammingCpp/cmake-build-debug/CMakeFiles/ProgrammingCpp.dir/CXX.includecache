@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/main.cpp
+E:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/thread_ex.cpp
 iostream
 -
-operator/mytime0.h
-D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/mytime0.h
-
-D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/mytime0.h
-
-D:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/operator/operator0.cpp
+pthread.h
+-
 
