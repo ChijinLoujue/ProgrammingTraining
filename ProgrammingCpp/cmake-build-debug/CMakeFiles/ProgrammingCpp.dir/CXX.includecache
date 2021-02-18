@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/thread_ex.cpp
+D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/main.cpp
 iostream
 -
-pthread.h
+vector
+-
+string
 -
 

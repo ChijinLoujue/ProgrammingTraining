@@ -1,3 +1,32 @@
+//
+//#include <iostream>
+//#include <string.h>
+//#include <vector>
+//
+////#include "operator/mytime0.h"
+//
+//    using namespace std;
+//
+//
+//int main() {
+//     vector<int> vec;
+//
+//     cout<<"vector size="<< vec.size()<<endl;
+//     for(int i = 0;i<5;++i){
+//         vec.push_back(i);
+//     }
+//    cout<<"size = "<<vec.size()<<endl;
+//    for(int i = 0;i<5;++i){
+//        cout<<"value ["<<i<<"]<<="<<vec[i]<<endl;
+//    }
+//    vector<int>::iterator v = vec.begin();
+//    while(v!=vec.end()){
+//        cout<<"v="<<*v<<endl;
+//        v++;
+//    }
+//    return 0;
+//}
+
 //#include <iostream>
 //#include <vector>
 //#include <string>
@@ -212,16 +241,93 @@
 //}
 
 
+//
+//#include <iostream>
+//using namespace std;
+//void add(int a, int b){
+//    cout << a <<endl;
+//    cout << b <<endl;
+//}
+//
+//int main(){
+//    int a = 5;
+//    int b = 5;
+//    add(a++, ++a);
+//}
+//
+//#include <iostream>
+//int main(){
+//    int a = 10;
+//    int* p = &a;
+//    int*q = p;
+//    std::cout << "*p = " << *p <<std::endl;
+//    std::cout << "*q = " << *q <<std::endl;
+//    *q += 1;
+//    std::cout << "*p = " << *p <<std::endl;
+//    std::cout << "*q = " << *q <<std::endl;
+//
+//}
+
+
+//
+//#include <iostream>
+//#include <vector>
+//#include <string>
+//using namespace std;
+//vector<string> defStr(string s){
+//    int len = s.length();
+//    vector<string> str;
+//    if(s[0] != '['){
+//        return str;
+//    }
+//    if(s[len-1] != ']'){
+//        return str;
+//    }
+//
+//    int left_index = 0;
+//    int right_index = 1;
+//    string temp;
+//    for(int i = 1;i<len-1;i++){
+//        if(s[i]==','){
+//            right_index = i;
+//            temp = s.substr(left_index+1,right_index-left_index-1);
+//            str.push_back(temp);
+//            cout << temp<<endl;
+//            left_index = right_index;
+//        }
+//    }
+//    right_index = len-1;
+//    temp = s.substr(left_index+1,right_index-left_index-1);
+//    str.push_back(temp);
+//    cout << temp<<endl;
+//    return str;
+//}
+
+//int main(){
+//    string str = "[1,2,3,4,5]";
+//    vector<string> str1= defStr(str);
+//}
+
+//
+//#include <iostream>
+//#include <vector>
+//#include <string>
+//using namespace std;
+//
+//int main(){
+//    string s = "1";
+//    int x = atoi(s.c_str());
+//    cout << x <<endl;
+//}
 
 #include <iostream>
+#include <vector>
+#include <string>
 using namespace std;
-void add(int a, int b){
-    cout << a <<endl;
-    cout << b <<endl;
-}
 
-int main(){
-    int a = 5;
-    int b = 5;
-    add(a++, ++a);
+
+int main() {
+    int* x;
+    *x = 10;
+    cout << &x << endl;
 }

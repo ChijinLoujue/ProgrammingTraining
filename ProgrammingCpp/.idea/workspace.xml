@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
       <config projectName="ProgrammingCpp" targetName="ProgrammingCpp" />
     </generated>
@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2d384be-825b-4d1c-b053-c3dc15b11d80" name="Default Changelist" comment="">
+    <list default="true" id="d9882100-ad0d-4551-98be-0dce02c382f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question61.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question67.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/codinginterviews/Question61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/codinginterviews/Question62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programming/src/codinginterviews/Question67.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews03.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews03.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews04.cpp" afterDir="false" />
@@ -41,39 +47,100 @@
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews33.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews34.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews35.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews36.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews37.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingInterviews/coding_interviews38.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/huawei.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/leetcode947.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LeetCode/leetcode947.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/module/TreeNodeModule.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/module/TreeNodeModule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerplus/func.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/structure/list_demo.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/structure/list_demo.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/structure/tree_demo.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/structure/tree_demo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tectonic_sequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_ex.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingPython/CodingInterviews/coding_interviews38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingPython/Test/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question24.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question25.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question29.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question30$StackwithMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question30$StackwithMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question31.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question32.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question33.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question34.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question35.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question36.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question38.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question39.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question40.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question43.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question45.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question49.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question50.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question52.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question56.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question57.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question57.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question58.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question58.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/Question9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/QuestionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/codinginterviews/QuestionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/ctrip/Ctrip3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/genericity/Genericity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/genericity/Genericity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/jdbctomysql/MySQLDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/jdbctomysql/MySQLDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/listtrain/LinkListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/listtrain/LinkListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/liulishuo/Liulishuo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/liulishuo/Liulishuo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/liulishuo/Liulishuo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/liulishuo/Liulishuo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/maptrain/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/maptrain/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/multithreading/Multithreading.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/multithreading/Multithreading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/neteasegame/ColumnMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/neteasegame/ColumnMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/neteasegame/KeyCost.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/neteasegame/KeyCost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/quickworker/QuickWorker1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/quickworker/QuickWorker1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/quickworker/QuickWorker2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/quickworker/QuickWorker2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/race/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/race/Rabbit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/race/Tortoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/race/Tortoise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/servertrain/GreetingServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/servertrain/GreetingServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/sockettrain/SocketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/sockettrain/SocketTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/sortingalgorithm/ClassicSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/sortingalgorithm/ClassicSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/threadpool/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/threadpool/MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/threadpool/ThreadPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/threadpool/ThreadPoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/treetraversal/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/treetraversal/TreeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/withdrawals/PersonA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/withdrawals/PersonA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/out/production/Programming/withdrawals/PersonB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/out/production/Programming/withdrawals/PersonB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/src/codinginterviews/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/src/codinginterviews/Question3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/src/codinginterviews/QuestionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/src/codinginterviews/QuestionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programming/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
@@ -87,7 +154,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/mytime0.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj" afterDir="false" />
@@ -102,40 +168,259 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgrammingCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgrammingCpp.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgrammingCpp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProgrammingCpp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ProgrammingCpp.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/mytime0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/mytime0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/operator0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/.idea/ProgrammingPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingPython/.idea/ProgrammingPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingPython/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingPython/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/HarrisArithmetic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/HarrisArithmetic/harris.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/HarrisArithmetic/harrisTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/SiftArithmetic/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/SiftArithmetic/Lena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/SiftArithmetic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/SiftArithmetic/sift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/demo2forcv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/demoforcv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/intro_ball.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanks4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/tanksall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/aboutTank/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammingPython/image/未确认 615052.crdownload" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="882549972">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="cpp" value="5" />
+          <entry key="h" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="2892" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="10" />
+          <entry key="ObjectiveC" value="2892" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+              <folding>
+                <element signature="e#6544#6563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10550">
+              <caret line="422" selection-start-line="422" selection-end-line="422" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3525">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/move.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3450">
+              <caret line="138" selection-start-line="138" selection-end-line="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews35.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews36.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews37.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews38.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#47#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primerplus/func.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="39" selection-start-line="4" selection-end-line="39" />
+              <folding>
+                <element signature="e#49#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectId" id="1byzsyfZvdkSYTOZ76vsJM1SPgB" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodingInterviews/coding_interviews35.cpp" />
+        <option value="$PROJECT_DIR$/CodingInterviews/coding_interviews36.cpp" />
+        <option value="$PROJECT_DIR$/primerplus/func.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CodingInterviews/coding_interviews37.cpp" />
+        <option value="$PROJECT_DIR$/CodingInterviews/coding_interviews38.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProgrammingCpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingCpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingCpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingCpp" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingCpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingCpp" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingCpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingCpp" type="462c0819:PsiDirectoryNode" />
+              <item name="primerplus" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/WorkSoftware/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ProjectSpace\GitProjects\ProgrammingTraining\ProgrammingCpp" />
-      <recent name="D:\WorkSpace\GitHub\ProgrammingTraining\ProgrammingCpp\operator" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,7 +434,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.ProgrammingCpp">
+  <component name="RunManager" selected="Application.ProgrammingCpp">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -161,8 +446,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.Build All" />
-      <item itemvalue="CMake Application.ProgrammingCpp" />
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.ProgrammingCpp" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -170,101 +455,154 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2d384be-825b-4d1c-b053-c3dc15b11d80" name="Default Changelist" comment="" />
-      <created>1569295145941</created>
+      <changelist id="d9882100-ad0d-4551-98be-0dce02c382f6" name="Default Changelist" comment="" />
+      <created>1612859703684</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569295145941</updated>
-      <workItem from="1569295148876" duration="9508000" />
-      <workItem from="1589619336587" duration="761000" />
-      <workItem from="1589621501523" duration="30000" />
-      <workItem from="1610734695375" duration="669000" />
-      <workItem from="1610774563777" duration="5950000" />
-      <workItem from="1610846617455" duration="12871000" />
-      <workItem from="1611043162300" duration="1231000" />
-      <workItem from="1611045682371" duration="12569000" />
-      <workItem from="1611108373866" duration="4867000" />
-      <workItem from="1611126581587" duration="4067000" />
-      <workItem from="1611194605631" duration="1198000" />
-      <workItem from="1611406356424" duration="27027000" />
-      <workItem from="1611649564153" duration="291000" />
-      <workItem from="1611650172532" duration="3507000" />
-      <workItem from="1611664857193" duration="25674000" />
-      <workItem from="1612189215715" duration="65030000" />
-      <workItem from="1612691154901" duration="8779000" />
+      <updated>1612859703684</updated>
+      <workItem from="1612859708558" duration="4574000" />
+      <workItem from="1612944475825" duration="22718000" />
+      <workItem from="1613292235082" duration="11362000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38654000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18078668" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30541873" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>48</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews05.cpp</url>
-          <line>37</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews06.cpp</url>
-          <line>21</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>79</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>190</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews24.cpp</url>
-          <line>58</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews31.cpp</url>
-          <line>45</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews31.cpp</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews31.cpp</url>
-          <line>19</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CodingInterviews/coding_interviews31.cpp</url>
-          <line>23</line>
-          <option name="timeStamp" value="23" />
+          <line>277</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/WorkSoftware/MinGW/x86_64-w64-mingw32/include/mmcobj.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10550">
+          <caret line="422" selection-start-line="422" selection-end-line="422" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3525">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WorkSoftware/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews35.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primerplus/func.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" selection-start-line="4" selection-end-line="39" />
+          <folding>
+            <element signature="e#49#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews36.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+          <folding>
+            <element signature="e#6544#6563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews37.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingInterviews/coding_interviews38.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#47#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

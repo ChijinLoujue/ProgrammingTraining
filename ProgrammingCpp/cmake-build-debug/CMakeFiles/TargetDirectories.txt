@@ -1,3 +1,3 @@
-E:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir
-E:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/ProjectSpace/GitProjects/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/ProgrammingCpp.dir
+D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WorkSpace/GitHub/ProgrammingTraining/ProgrammingCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
