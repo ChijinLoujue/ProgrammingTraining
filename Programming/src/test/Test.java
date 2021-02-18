@@ -1,14 +1,21 @@
-package test;
-
-import java.util.Scanner;
-
-
-public class Test {
-    public static void main(String[] args) {
-
-        System.out.println("Hello World!");
-    }
-}
+//package test;
+//
+//import java.util.Scanner;
+//
+//public class Test {
+//   public static void main(String []args){
+//       Scanner in = new Scanner(System.in);
+//       String input = in.nextLine();
+//       String []inp = input.split(" ");
+//       String []num = inp[0].split(",");
+//       int max = Integer.parseInt(inp[1]);
+//       int len = num.length;
+//       int []numb = new int[len];
+//       for(int i = 0;i<len;++i){
+//           numb[i] = Integer.parseInt(num[i]);
+//       }
+//       System.out.println(numb,max);
+//   }
 //   public static int findposition(int []Array,int n){
 //       int len = Array.length;
 //       if(n>len)

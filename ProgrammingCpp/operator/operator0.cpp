@@ -1,11 +1,13 @@
+//
+// Created by ChijinLoujue on 2019/9/24.
+//
+
 #include <iostream>
-#include "operator/mytime0.h"
-    using namespace std;
+#include <vector>
+#include <array>
+using namespace std;
 int main() {
-    Time planning;
-    Time coding(2,40);
-    Time fixing(5,55);
-    Time total;
+    vector<int> vi;
 
     cout<<"planning time = ";
     planning.Show();
