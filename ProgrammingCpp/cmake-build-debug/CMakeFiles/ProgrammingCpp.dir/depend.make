@@ -3,7 +3,3 @@
 
 CMakeFiles/ProgrammingCpp.dir/main.cpp.obj: ../main.cpp
 
-CMakeFiles/ProgrammingCpp.dir/operator/mytime0.cpp.obj: ../operator/mytime0.cpp
-
-CMakeFiles/ProgrammingCpp.dir/operator/operator0.cpp.obj: ../operator/operator0.cpp
-

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4f5d8-8ccd-45f6-b358-5acb79c31b89" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/huawei/HuaweiTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/huawei/Question1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/huawei/Question21.java" afterDir="false" />
@@ -30,14 +31,17 @@
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/mytime0.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammingCpp/operator/operator0.cpp" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="315327894">
       <usages-collector id="statistics.lifecycle.project">
@@ -192,6 +196,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -206,7 +212,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -347,17 +355,28 @@
       </pane>
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1TcHlr6mp84oHvV5jQdoEfriytx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkSpace/GitHub/ProgrammingTraining/Programming/src/codinginterviews/Question1.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584084562264" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar!/" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573366498473" />
+    <property name="last_opened_file_path" value="D:/WorkSoftware/Git/bin/git.exe" />
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -381,6 +400,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Question22">
     <configuration name="HuaweiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="huawei.HuaweiTest" />
@@ -395,6 +415,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="RunManager" selected="Application.Test">
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Programming" />
@@ -457,8 +480,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
+<<<<<<< HEAD
       <item itemvalue="Application.Question1" />
       <item itemvalue="Application.HuaweiTest" />
       <item itemvalue="Application.Question23" />
@@ -472,6 +509,21 @@
         <item itemvalue="Application.Question23" />
         <item itemvalue="Application.HuaweiTest" />
         <item itemvalue="Application.Question1" />
+=======
+      <item itemvalue="Application.Question45" />
+      <item itemvalue="Application.Question49" />
+      <item itemvalue="Application.QuestionTest" />
+      <item itemvalue="Application.Question57" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.QuestionTest" />
+        <item itemvalue="Application.Question57" />
+        <item itemvalue="Application.Question49" />
+        <item itemvalue="Application.Question45" />
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +553,7 @@
       <workItem from="1570619925143" duration="72670000" />
       <workItem from="1571287259336" duration="36298000" />
       <workItem from="1572164607143" duration="36723000" />
+<<<<<<< HEAD
       <workItem from="1573365511056" duration="2335000" />
       <workItem from="1576923392680" duration="7695000" />
       <workItem from="1582278444568" duration="609000" />
@@ -511,6 +564,17 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="348519000" />
   </component>
+=======
+      <workItem from="1573365511056" duration="1036000" />
+      <workItem from="1573752619896" duration="904000" />
+      <workItem from="1574061102794" duration="5537000" />
+      <workItem from="1574251789804" duration="5109000" />
+      <workItem from="1574865585565" duration="1492000" />
+      <workItem from="1589621562894" duration="294000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -520,6 +584,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
@@ -553,11 +618,23 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
+=======
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -565,110 +642,92 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question4.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question4.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question6.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question21.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question24.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question31.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java</url>
           <line>112</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/sortingalgorithm/ClassicSort.java</url>
           <line>241</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question33.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctrip/Ctrip1.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctrip/Ctrip3.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question38.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question40.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question45.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question45.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codinginterviews/Question49.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codinginterviews/Question49.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codinginterviews/Question57.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codinginterviews/QuestionTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/huawei/Question1.java</url>
@@ -685,6 +744,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/race/LetOneStop.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1164,4 +1224,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 1279261640c822dff3577ddd98d4316603086174
 </project>
