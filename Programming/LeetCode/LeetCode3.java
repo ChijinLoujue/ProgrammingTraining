@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class LeetCode3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
@@ -12,12 +12,12 @@ public class Main {
     public static int lengthOfLongestSubstring(String s) {
         int curLength = 0;      //当前子字符串长度
         int maxLength = 0;       //最大子字符串长度
-        int []position = new int [26];    //设置前一个字符的下标
-        for(int i=0;i<26;++i){
+        int []position = new int [127];    //设置前一个字符的下标
+        for(int i=0;i<127;++i){
             position[i] = -1;         //将数组初始化为-1
         }
         for(int i=0;i<s.length();++i){    //从头遍历某字符串 ，第i个字符时
-            int prevIndex = position[s.charAt(i)-'a'];            //将该字符的上一次下标给preIndex
+            int prevIndex = position[s.charAt(i)];            //将该字符的上一次下标给preIndex
             if(prevIndex<0||i-prevIndex>curLength){        //如果pre<0（之前没出现过）或者当前下标和上次下标插值比当前子字符串长度还大
                 ++curLength;                                //那就让当前子字符串加1
             }else{                                          //否则
@@ -26,7 +26,7 @@ public class Main {
                 }
                 curLength = i-prevIndex;                     //当前子字符串长度为当前遍历的字符下标-上次的下标
             }
-            position[s.charAt(i)-'a'] = i;              //在遍历下一个字符前先把这个字符存到
+            position[s.charAt(i)] = i;              //在遍历下一个字符前先把这个字符存到
 
         }
         if(curLength>maxLength){

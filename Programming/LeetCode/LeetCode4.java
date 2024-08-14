@@ -2,7 +2,7 @@
 //LeetCode4: 时间复杂度O(log(m+n))下得到两个排序数组的中位数
 import java.util.Scanner;
 
-public class Main{
+public class LeetCode4{
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -25,7 +25,7 @@ public class Main{
         Integer []data = new Integer[lendata];
         int m=0,n=0;
         while (m<len1||n<len2){
-            if(m<len1&&(n>=len2||nums1[m].compareTo(nums2[n])<=0)){
+            if(m<len1&&(n>=len2||nums1[m]<nums2[n])){
                 data[m+n] = nums1[m];
                 ++m;
             }else{

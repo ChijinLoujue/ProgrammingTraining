@@ -1,8 +1,0 @@
-//
-// Created by ChijinLoujue on 2021/1/16.
-//
-
-#ifndef PROGRAMMINGCPP_LEETCODE947_H
-#define PROGRAMMINGCPP_LEETCODE947_H
-
-#endif //PROGRAMMINGCPP_LEETCODE947_H
