@@ -3,7 +3,7 @@
 //
 #include <iostream>
 #include <vector>
-#include "leetcode947.h"
+
 using namespace std;
 class Solution {
 public:
