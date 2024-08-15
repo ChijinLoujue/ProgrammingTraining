@@ -1,11 +1,11 @@
 import java.util.Scanner;
 import java.util.*;
-public class Main {
+public class Tencent2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (in.hasNext()) {
-            int n = in.nextLine();
-            innt len =(int)Math.pow(2,n);
+            int n = Integer.parseInt(in.nextLine());
+            int len =(int)Math.pow(2,n);
             int[] origin = new int[len];
             for(int i=0;i<len;i++){
                 origin[i]=in.nextInt();
@@ -37,5 +37,9 @@ public class Main {
             }
         }
         return result;
+    }
+
+    public static int[] parse(int[] x, int val){
+            return x;
     }
 }

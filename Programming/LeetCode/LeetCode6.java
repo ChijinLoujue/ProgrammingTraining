@@ -1,4 +1,5 @@
-
+import java.util.List;
+import java.util.ArrayList;
 
 class LeetCode6 {
     
@@ -17,14 +18,14 @@ class LeetCode6 {
             }
             if(up){
                 current++;
-            }else(
+            }else{
                 current--;
-            )
+            }
         }
         StringBuffer result = new StringBuffer();
         for (int i = 0; i < numRows; i++) {
             result.append(stringBufferList.get(i));
         }
-        return result.toS
+        return result.toString();
     }
 }

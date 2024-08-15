@@ -10,27 +10,27 @@ public class LeetCode5{
         System.out.println(longestPalindrome(s));
     }
 
-    public String longestPalindrome(String s) {
+    public static String longestPalindrome(String s) {
         if(s.length()==1){
             return s;
         }
         Integer maxLength = 0;
         int left = 0;
         int right =0;
-        Integer[][] x = new int[s.length()][s.length()];
+        Integer[][] x = new Integer[s.length()][s.length()];
         for(int n = 0;n<s.length();n++){
             for(int i = 0;i+n<s.length();i++){
-                Integer x = huiwenlong( s,  i,  i+n, x);
-                if(x>maxLength){
-                    maxLength = x;
+                Integer currentLength = huiwenlong( s,  i,  i+n, x);
+                if(currentLength>maxLength){
+                    maxLength = currentLength;
                     left= i;
                     right = i+n+1;
                 }
             }
         }
-        return s.subString(left,right);
+        return s.substring(left,right);
     }
-    private Integer huiwenlong(String s, int i, int j, int[][] x){
+    private static Integer huiwenlong(String s, int i, int j, Integer[][] x){
         if(i==j){
             x[i][j]=1;
         }
