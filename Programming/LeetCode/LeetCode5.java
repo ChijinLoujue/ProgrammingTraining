@@ -8,6 +8,7 @@ public class LeetCode5{
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         System.out.println(longestPalindrome(s));
+        sc.close();
     }
 
     public static String longestPalindrome(String s) {
