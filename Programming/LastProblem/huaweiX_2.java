@@ -7,12 +7,9 @@ public class huaweiX_2 {
 
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-        //String[] namelist;
-        //int []  linelist;
-        //int[] errotimes;
-        ArrayList<String> namelist=new ArrayList<>();
-        ArrayList<Integer> linelist=new ArrayList<>();
-        ArrayList<Integer> errotimes=new ArrayList<>();
+        String[] namelist = new String[10];
+        int []  linelist = new int[10];
+        int[] errotimes = new int[10];
         int erronum=0;
         while(in.hasNext()){
             String  Filename = in.next();

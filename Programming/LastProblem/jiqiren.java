@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.math.*;
 public class jiqiren {
 
-    public double dosomething(int a){
+    public static double dosomething(int a){
         double k =0.0;
         if(a<=2)
         {

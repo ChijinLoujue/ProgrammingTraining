@@ -2,7 +2,7 @@
 //huawie3
 import java.util.*;
 import java.math.*;
-public class huawie3 {
+public class huawei3 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         while(in.hasNext()){

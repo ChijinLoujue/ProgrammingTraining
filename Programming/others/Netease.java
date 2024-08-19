@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class wangyi {
+public class NetEase {
 }
 
 // 第一题。

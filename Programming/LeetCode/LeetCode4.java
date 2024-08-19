@@ -16,7 +16,8 @@ public class LeetCode4{
         for(int i=0;i<n;++i){
             input2[i] = sc.nextInt();
         }
-        System.out.println(findMedianSortedArrays(input1,input2));
+        System.out.println(findMedianSortedArrays(input1, input2));
+        sc.close();
     }
     public  static double findMedianSortedArrays(Integer[] nums1,Integer[]nums2){
         int len1 = nums1.length;

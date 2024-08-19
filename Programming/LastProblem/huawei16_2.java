@@ -6,15 +6,14 @@ public class huawei16_2 {
         while(in.hasNext()){
             int N = in.nextInt();
             int M = in.nextInt();
-            int[] Chengji=new int[N];
+            int[] Chengji = new int[N];
+            String[] other = new String[M];
             for(int i=0;i<N;i++){
                 Chengji[i]=in.nextInt();
             }
             for(int i=0;i<M;i++){
-                String [i]=in.nextInt();
+                other[i]=in.nextLine();
             }
-            
-            System.out.println(result);
         }
         in.close();
     }

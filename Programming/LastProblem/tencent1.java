@@ -3,7 +3,7 @@ import java.util.Scanner;
 //import com.sun.org.glassfish.gmbal.Impact;
 
 //import java.util.*;
-public class Main {
+public class Tencent1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (in.hasNextInt()) {
