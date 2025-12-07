@@ -17,7 +17,7 @@ public class NiuFindJob{
             FriendInfo[m]=myScanner.nextInt();
         }
         paixu(WorkInfo);
-        for(int i = 0;i<n;i++)
+        for(int i = 0;i<WorknumN;i++)
         System.out.println(WorkInfo[i][0]);
 
         int[] x = doSomething(WorkInfo,FriendInfo);

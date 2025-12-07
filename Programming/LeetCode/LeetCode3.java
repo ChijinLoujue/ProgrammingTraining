@@ -7,6 +7,7 @@ public class LeetCode3 {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         System.out.println(lengthOfLongestSubstring(s));
+        sc.close();
     }
 
     public static int lengthOfLongestSubstring(String s) {

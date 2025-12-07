@@ -2,19 +2,19 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class conclu6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] x = new int[n];
         for(int i = 0; i < n; i++){
                 x[i] = sc.nextInt();
-            }
         } 
         System.out.println(dosomething(x));
+        sc.close();
     }
 
-    public int dosomething(int[] a){
-
+    public static int dosomething(int[] a){
+        return 0;
     }
 }

@@ -7,17 +7,18 @@
 //如下图：实心点为满足条件的点的集合。请实现代码找到集合 P 中的所有 ”最大“ 点的集合并输出。
 //
 import java.util.Scanner;
-public class Main{
+public class Maximum{
     public static void main(String[] args){
         Scanner myScanner = new Scanner(System.in);
         String inputFirstStr = myScanner.nextLine();
         int N = Integer.parseInt(inputFirstStr);
-        while(myScanner.hasNext()){
-            String inputS=myScanner.nextLine();
+        while (myScanner.hasNext()) {
+            String inputS = myScanner.nextLine();
             int input = Integer.parseInt(inputS);
-            if(input!=0)
+            if (input != 0)
                 System.out.println(doSomething(input));
         }
+        myScanner.close();
     }
     public static int doSomething(int input){
         int output=0,i=0;
