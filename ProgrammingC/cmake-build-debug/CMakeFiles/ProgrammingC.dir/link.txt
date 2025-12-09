@@ -1,3 +1,0 @@
-"D:\WorkSoftware\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\ProgrammingC.dir/objects.a
-D:\WorkSoftware\MinGW\bin\ar.exe cr CMakeFiles\ProgrammingC.dir/objects.a @CMakeFiles\ProgrammingC.dir\objects1.rsp
-D:\WorkSoftware\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ProgrammingC.dir/objects.a -Wl,--no-whole-archive  -o ProgrammingC.exe -Wl,--out-implib,libProgrammingC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProgrammingC.dir\linklibs.rsp
